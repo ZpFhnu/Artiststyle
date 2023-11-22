@@ -12,7 +12,7 @@ Our research targets on individual artistic styles, so as the classes in *Artist
 
 For example, 1332 impressionist artworks by *Claude Monet* in *WikiArt* have different artistic styles considering fine-grained factors such as stroke and theme, so we collect 204 sharing the same artistic style from 1332 to form a category in *Artiststyle18*. 
 
-**Five** **experts** who have over **ten** years art experience participated in the selection process, during which they selected images according to their artistic styles and authors.
+**Five** **experts** who have over **10** years art experience participated in the selection process, during which they selected images according to their artistic styles and authors.
 - **Download**
 
 *Artiststyle18* can be downloaded [here](https://drive.google.com/drive/folders/1LjEfsn_qd4vITWnUJq8HTjq0OSrSIA-r?usp=drive_link)(Size = 246Mb). We will continue expanding the dataset in the future.
