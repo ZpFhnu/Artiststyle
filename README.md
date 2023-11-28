@@ -18,7 +18,7 @@ For example, 1332 impressionist artworks by *Claude Monet* in *WikiArt* have dif
 **Five** **experts** who have over **10** years art experience participated in the selection process, during which they selected images according to their artistic styles and authors.
 - **Download**
 
-*Artiststyle18* can be downloaded [here](https://drive.google.com/drive/folders/1LjEfsn_qd4vITWnUJq8HTjq0OSrSIA-r?usp=drive_link)(Size = 246Mb). We will continue expanding the dataset in the future.
+*Artiststyle18* and related files can be downloaded [here](https://drive.google.com/drive/folders/1LjEfsn_qd4vITWnUJq8HTjq0OSrSIA-r?usp=drive_link)(Size = 246Mb). We will continue expanding the dataset in the future.
 ## Note
 
 1. The WikiArt dataset can be used only for non-commercial research purpose.
