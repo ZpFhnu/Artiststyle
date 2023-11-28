@@ -1,6 +1,7 @@
 # Artiststyle18
 ## Update
 Added two classes on Novenmber 28, 2023.
+
 Released on November 21, 2023.
 ## Description
 To have a fair comparison with baselines in the context of individual artistic style classification, we created a refined Wikiart dataset, named *Artiststyle18* dataset.
