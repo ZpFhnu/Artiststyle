@@ -1,6 +1,6 @@
 # Artiststyle18
 ## Update
-Added two classes on Novenmber 28, 2023.
+Added two classes on November 28, 2023.
 
 Released on November 21, 2023.
 ## Description
