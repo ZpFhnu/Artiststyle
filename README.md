@@ -8,8 +8,7 @@ To have a fair comparison with baselines in the context of individual artistic s
 - **Size and composition**
 
 The first-edition of *Artiststyle18* contains **4055** artwork images collected from **18** artists. Please refer to the [csv.file](https://drive.google.com/file/d/1zhu2xzMs1rBHVRvJqT4MNeJffTs1_eAq/view?usp=drive_link) for more details.
-- **Principle and professionals
-**
+- **Principle and professionals**
 
 Our research targets on individual artistic styles, so as the classes in *Artiststyle18*. Specifically, images belonging to the same category have the same individual artistic style. Therefore, existing datasets like *WikiArt* (containing 52757 images) can not be used directly for training but need to be manually refined. 
 
