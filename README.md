@@ -1,4 +1,4 @@
-# Artiststyle18
+# Artiststyle
 ## Update
 Added six classes on January 2, 2024.
 
