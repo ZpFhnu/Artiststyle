@@ -28,3 +28,23 @@ For example, 1332 impressionist artworks by *Claude Monet* in *WikiArt* have dif
 1. The WikiArt dataset can be used only for non-commercial research purpose.
 2. The images in the WikiArt dataset were obtained from WikiArt.org. The authors are neither responsible for the content nor the meaning of these images.
 3. By using the WikiArt dataset, you agree to obey the terms and conditions of [WikiArt.org](https://drive.google.com/drive/folders/1LjEfsn_qd4vITWnUJq8HTjq0OSrSIA-r?usp=drive_link).
+
+## Cite  FedStyle
+
+If you find this repository useful, please use the following entry for citation.
+```
+@INPROCEEDINGS{10688004,
+  author={Ran, Changjuan and Guo, Yeting and Liu, Fang and Cui, Shenglan and Ye, Yunfan},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)}, 
+  title={FedStyle: Style-Based Federated Learning Crowdsourcing Framework for Art Commissions}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Crowdsourcing;Art;Costs;Generative AI;Semantics;Collaboration;Contrastive learning;federated learning;contrastive learning;art commissions},
+  doi={10.1109/ICME57554.2024.10688004}}
+```
+
+## Contributors and Contact
+
+To get a copy of the Conllustration dataset, which is an contemporary illustration dataset containing 3238 artworks, feel free to contact with the author: Changjuan Ran (ChangjuanRan@gmail.com).
